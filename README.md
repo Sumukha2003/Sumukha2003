@@ -97,8 +97,6 @@ Tech: Python, Artificial Intelligence, Search Algorithms, Machine Learning
 
 📧 Email: **sumukh960@gmail.com**
 
-💼 LinkedIn  
-https://www.linkedin.com/in/sumukha-hande
+💼 LinkedIn: https://www.linkedin.com/in/sumukha-hande
 
-💻 GitHub  
-https://github.com/Sumukha2003
+💻 GitHub: https://github.com/Sumukha2003
