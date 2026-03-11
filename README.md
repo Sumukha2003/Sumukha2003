@@ -51,16 +51,20 @@ I enjoy building software that converts ideas into real-world applications. My i
 
 # 📌 Featured Projects
 
-### 🎵 GenreGennie – Music Genre Classification
-Machine learning model that classifies songs using MFCC features with Random Forest.
+🎵 GenreGennie – Music Genre Classification
+
+Machine learning model that classifies songs using MFCC features with a Random Forest classifier.
+
+Tech: Python, Machine Learning, Librosa, Scikit-learn, Streamlit
 
 
-### 🤖 Pacman AI Agent
+🤖 Pacman AI Agent
 
 Developed an intelligent Pacman agent using Artificial Intelligence and Machine Learning techniques.  
 Implemented search algorithms and decision-making strategies to allow Pacman to navigate the maze, collect food, and avoid ghosts efficiently.
 
-**Tech:** Python, AI, Machine Learning
+Tech: Python, Artificial Intelligence, Search Algorithms, Machine Learning
+
 ---
 
 # 📊 GitHub Stats
