@@ -56,8 +56,11 @@ Machine learning model that classifies songs using MFCC features with Random For
 
 
 ### 🤖 Pacman AI Agent
+
 Developed an intelligent Pacman agent using Artificial Intelligence and Machine Learning techniques.  
 Implemented search algorithms and decision-making strategies to allow Pacman to navigate the maze, collect food, and avoid ghosts efficiently.
+
+**Tech:** Python, AI, Machine Learning
 ---
 
 # 📊 GitHub Stats
