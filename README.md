@@ -71,7 +71,7 @@ Tech: Python, Artificial Intelligence, Search Algorithms, Machine Learning
 
 ---
 
-📱 BillMind – Smart Expense Tracker
+### 📱 BillMind – Smart Expense Tracker
 
 Developed a smart expense tracking mobile application using **Flutter integrated with OCR technology**.
 Implemented automated bill scanning and data extraction to capture key details like amount, date, and vendor, enabling efficient expense categorization and financial tracking.
