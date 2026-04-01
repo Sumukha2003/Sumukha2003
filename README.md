@@ -76,7 +76,7 @@ Tech: Python, Artificial Intelligence, Search Algorithms, Machine Learning
 Developed a smart expense tracking mobile application using **Flutter integrated with OCR technology**.
 Implemented automated bill scanning and data extraction to capture key details like amount, date, and vendor, enabling efficient expense categorization and financial tracking.
 
-Tech: Flutter, Dart, OCR (ML Kit/Tesseract), Firebase , Machine Learning
+Tech: Flutter, Dart, OCR (ML Kit), Firebase , Machine Learning
 
 ---
 
